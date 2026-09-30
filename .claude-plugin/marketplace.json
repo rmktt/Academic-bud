@@ -1,0 +1,14 @@
+{
+  "name": "academic-bud",
+  "description": "Academic-bud: an advisory team for academic projects that disagrees honestly.",
+  "owner": {
+    "name": "Academic-bud contributors"
+  },
+  "plugins": [
+    {
+      "name": "academic-bud",
+      "source": "./",
+      "description": "A lead interviewer plus five advisors (researcher, critic, engineer, communicator, report-writer) for any academic project."
+    }
+  ]
+}

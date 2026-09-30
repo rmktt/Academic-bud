@@ -1,0 +1,43 @@
+# Your real, filled-in project context -- keep it local.
+# (examples/*/PROJECT-CONTEXT.md is a fictional example and IS tracked.)
+/PROJECT-CONTEXT.md
+
+# Institution-specific report templates / rubrics -- usually not yours
+# to redistribute. Keep them in a local folder like this one.
+/reference/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp

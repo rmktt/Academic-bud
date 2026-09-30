@@ -1,0 +1,8 @@
+{
+  "name": "academic-bud",
+  "displayName": "Academic-bud",
+  "version": "1.0.0",
+  "description": "An advisory team for academic projects: a lead that interviews you about your project, plus five advisors (researcher, critic, engineer, communicator, report-writer) built to disagree honestly.",
+  "license": "MIT",
+  "keywords": ["academic", "capstone", "senior-design", "thesis", "research", "report-writing", "review"]
+}
